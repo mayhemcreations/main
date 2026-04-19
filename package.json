@@ -1,1 +1,1 @@
-{\n  "name": "my-vue-app",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "devDependencies": {\n    "vite": "^2.0.0",\n    "vue": "^3.0.0"\n  }\n}
+{"name":"vue-github-pages","version":"1.0.0","scripts":{"dev":"vite","build":"vite build","serve":"vite preview"},"dependencies":{"vue":"^3.0.0"},"devDependencies":{"vite":"^2.0.0"}}
