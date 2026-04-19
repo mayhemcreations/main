@@ -1,0 +1,1 @@
+{\n  "name": "my-vue-app",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "devDependencies": {\n    "vite": "^2.0.0",\n    "vue": "^3.0.0"\n  }\n}
